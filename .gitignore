@@ -1,0 +1,9 @@
+*.h5
+*.png
+*.data
+.ipynb_checkpoints/
+*.mp4
+*.gif
+*.dat
+*.log
+*.logsa
